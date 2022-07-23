@@ -7,3 +7,4 @@ ten_percent_model_checkpoints_weights
 10_food_classes_10_percent
 __MACOSX
 tranferlearning
+__pycache__
